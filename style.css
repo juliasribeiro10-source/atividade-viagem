@@ -54,7 +54,7 @@ header{
     align-items: center;
 }
 .banner{
-    background-image: url(./assents/image.png);
+    background-image: url(./assents/imagem-meio.png);
 width: 1800px;
 height: 700px;
 margin-top: 50px;
@@ -75,4 +75,17 @@ display: block;
  }
  .texto{
     font-size: 95px;
+ }
+
+ .caixa-card{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+ }
+
+ .caixa-paises{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    padding: 100px;
  }
